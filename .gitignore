@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/
+.cache/
+
+.env.production
+.env
+yarn-error.log
